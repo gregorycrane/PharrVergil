@@ -2,6 +2,10 @@
 
 This repository includes work for a possible digital version of Clyde Pharr's [1930 edition of Vergil's Aeneid](https://archive.org/details/vergilsaeneidboo00virg_0) (books 1-6). Pharr was one of the most thoughtful teachers of Greek and Latin in the twentieth century. His [Beginning Homeric Greek book](https://archive.org/details/PharrBeginningHomericGreek1920), publishedin 1920, was pioneering piece of data-driven work and allows learners to begin engaging with the opening of the Iliad within a few weeks of study (or sooner in an intensive setting).
 
+Pharr covers the first half of the Aeneid.
+* Can we use content in Pharr as training data and generate useful glosses and grammatical tags for the second half?
+* Some of what Pharr did by hand can now be done automatically (e.g., counting vocabulary items) but Pharr's work on visualization is a foundational starting point for us now almost a hundred years later.
+
 Pharr includes (1) the text, (2) a running vocabulary list, and (3) a grammatical commentary.
 
 # 1. The Text
